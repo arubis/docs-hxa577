@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fl2j7e.flauntglass.com/sitemap.xml
